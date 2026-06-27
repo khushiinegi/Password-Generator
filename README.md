@@ -17,4 +17,4 @@ python password_generator.py
 ```
 ## Screenshot
 
-![Password Generator](screenshot/image.png)
+![Password Generator](Screenshot/image.png)

@@ -15,3 +15,6 @@ A simple Password Generator built using Python.
 ```bash
 python password_generator.py
 ```
+## Screenshot
+
+![Password Generator](screenshot/image.png)
